@@ -1,9 +1,9 @@
 ---
 redirect_from: "/"
 ---
-This is a test edit.
 
-This is a sample of main page. You can edit it to start your wiki.
+* Hopefully google will index the page soon-ish
+* Probably want to add to webmaster tools
 
 For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
 
